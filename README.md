@@ -1,4 +1,5 @@
-### Hi there 👋
+# George Kwabena Darkwah
+[GitHub](https://github.com/gdarkwah)|[LinkedIn](https://www.linkedin.com/in/george-darkwah)
 Welcome to my github
 
 <!--

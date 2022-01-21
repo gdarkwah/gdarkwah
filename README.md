@@ -1,5 +1,5 @@
 # George Kwabena Darkwah
-[GitHub](https://github.com/gdarkwah) | [LinkedIn](https://www.linkedin.com/in/george-darkwah)
+[GitHub](https://github.com/gdarkwah) | [LinkedIn](https://www.linkedin.com/in/george-darkwah) | 
 [Personal Website](http://gdarkwah.github.io/)    
 Welcome to my github
 

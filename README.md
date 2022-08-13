@@ -1,6 +1,6 @@
 # George Kwabena Darkwah
 [GitHub](https://github.com/gdarkwah) | [LinkedIn](https://www.linkedin.com/in/george-darkwah) | 
-[Personal Website](http://gdarkwah.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=BVjwUesAAAAJ&hl=en)    
+[Website](http://gdarkwah.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=BVjwUesAAAAJ&hl=en)    
 Welcome to my github
 
 <!--
